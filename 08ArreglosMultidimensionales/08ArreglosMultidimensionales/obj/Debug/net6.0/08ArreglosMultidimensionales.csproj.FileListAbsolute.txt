@@ -1,0 +1,15 @@
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\bin\Debug\net6.0\08ArreglosMultidimensionales.exe
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\bin\Debug\net6.0\08ArreglosMultidimensionales.deps.json
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\bin\Debug\net6.0\08ArreglosMultidimensionales.runtimeconfig.json
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\bin\Debug\net6.0\08ArreglosMultidimensionales.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\bin\Debug\net6.0\08ArreglosMultidimensionales.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\refint\08ArreglosMultidimensionales.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\08ArreglosMultidimensionales.genruntimeconfig.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\08ArreglosMultidimensionales\08ArreglosMultidimensionales\obj\Debug\net6.0\ref\08ArreglosMultidimensionales.dll

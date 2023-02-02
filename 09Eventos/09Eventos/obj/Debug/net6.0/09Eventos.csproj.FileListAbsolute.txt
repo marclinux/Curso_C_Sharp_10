@@ -1,0 +1,15 @@
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\bin\Debug\net6.0\09Eventos.exe
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\bin\Debug\net6.0\09Eventos.deps.json
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\bin\Debug\net6.0\09Eventos.runtimeconfig.json
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\bin\Debug\net6.0\09Eventos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\bin\Debug\net6.0\09Eventos.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\refint\09Eventos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\09Eventos.genruntimeconfig.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\09Eventos\09Eventos\obj\Debug\net6.0\ref\09Eventos.dll

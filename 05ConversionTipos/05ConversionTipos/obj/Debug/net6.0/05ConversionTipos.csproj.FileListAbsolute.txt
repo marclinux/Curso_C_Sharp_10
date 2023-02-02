@@ -1,0 +1,15 @@
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\bin\Debug\net6.0\05ConversionTipos.exe
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\bin\Debug\net6.0\05ConversionTipos.deps.json
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\bin\Debug\net6.0\05ConversionTipos.runtimeconfig.json
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\bin\Debug\net6.0\05ConversionTipos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\bin\Debug\net6.0\05ConversionTipos.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\refint\05ConversionTipos.dll
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.pdb
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\05ConversionTipos.genruntimeconfig.cache
+C:\Users\Marcos\source\repos\CursoCSharp10\05ConversionTipos\05ConversionTipos\obj\Debug\net6.0\ref\05ConversionTipos.dll
